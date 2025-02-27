@@ -35,7 +35,7 @@ Navigate to the directory where the Python script is located.
 Run the following command:
 bash
 Copy
-python bmi_calculator.py
+python app.py
 
 🖥️ Usage
 
